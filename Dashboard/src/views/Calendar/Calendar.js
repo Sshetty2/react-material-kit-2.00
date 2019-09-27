@@ -228,7 +228,7 @@ const Calendar = () => {
             eventResizableFromStart
             events={events}
             header={false}
-            height={800}
+            height={700}
             plugins={[
               dayGridPlugin,
               timeGridPlugin,
