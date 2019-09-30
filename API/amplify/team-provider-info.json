@@ -1,0 +1,21 @@
+{
+    "api": {
+        "awscloudformation": {
+            "AuthRoleName": "api-api-20190927182813-authRole",
+            "UnauthRoleArn": "arn:aws:iam::678737146286:role/api-api-20190927182813-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::678737146286:role/api-api-20190927182813-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "api-api-20190927182813-deployment",
+            "UnauthRoleName": "api-api-20190927182813-unauthRole",
+            "StackName": "api-api-20190927182813",
+            "StackId": "arn:aws:cloudformation:us-east-2:678737146286:stack/api-api-20190927182813/79e5e830-e17e-11e9-b53b-02278d0d93fc"
+        },
+        "categories": {
+            "auth": {
+                "api95a63439": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"240709587408-cjdea1rrql3r2hk4cl48l6m06toc9ob4.apps.googleusercontent.com\",\"client_secret\":\"PiwsNOXqhy3j1tS7AdtNzEVD\"}]"
+                }
+            }
+        }
+    }
+}
